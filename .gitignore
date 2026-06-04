@@ -1,0 +1,8 @@
+venv/ 
+face/ 
+*.pyc 
+model_cache/ 
+.deepface/ 
+*.egg-info/ 
+.env 
+__pycache__/ 
